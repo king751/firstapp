@@ -5,6 +5,10 @@ Pre-work project.
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
+
+<img src="https://i.imgur.com/63jXJIU.gif" width=200><br>
+
+
 <img src="C:\Users\Kingsley\Desktop\testrecord.gif" width=200><br>
 
 <a href="http://tinypic.com?ref=2lxee5z" target="_blank"><img src="http://i64.tinypic.com/2lxee5z.gif" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -19,10 +23,10 @@ Pre-work project.
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.  
-- [ ] 2. User can tap a button to change the text string of the label - Android is Awesome!  
-- [ ] 3. User can tap on the background view to reset all views to default settings.  
-- [ ] 4. User can update the label text with custom text entered into the text field.  
-   - [ ] a. User can enter text into a text field using the keyboard.  
-   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.  
-   - [ ] c. If the text field is empty, update label with default text string.  
+- [x] 1. User can tap a button to change the color of the background view.  
+- [x] 2. User can tap a button to change the text string of the label - Android is Awesome!  
+- [x] 3. User can tap on the background view to reset all views to default settings.  
+- [x] 4. User can update the label text with custom text entered into the text field.  
+   - [x] a. User can enter text into a text field using the keyboard.  
+   - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
+   - [x] c. If the text field is empty, update label with default text string.  
