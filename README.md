@@ -8,15 +8,6 @@ Pre-work project.
 
 <img src="https://i.imgur.com/63jXJIU.gif" width=200><br>
 
-
-<img src="C:\Users\Kingsley\Desktop\testrecord.gif" width=200><br>
-
-<a href="http://tinypic.com?ref=2lxee5z" target="_blank"><img src="http://i64.tinypic.com/2lxee5z.gif" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<a href="http://tinypic.com?ref=2gwb9sx" target="_blank"><img src="http://i64.tinypic.com/2gwb9sx.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
