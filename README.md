@@ -6,7 +6,7 @@ Pre-work project.
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 
-img src="testrecord.gif" width=200><br>
+img src="Desktop\testrecord.gif" width=200><br>
 
 
 <img src="C:\Users\Kingsley\Desktop\testrecord.gif" width=200><br>
