@@ -9,6 +9,8 @@ Pre-work project.
 
 <a href="http://tinypic.com?ref=2lxee5z" target="_blank"><img src="http://i64.tinypic.com/2lxee5z.gif" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<a href="http://tinypic.com?ref=2gwb9sx" target="_blank"><img src="http://i64.tinypic.com/2gwb9sx.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
